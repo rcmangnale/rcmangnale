@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://bio.link/rameshwarmangnale](https://bio.link/rameshwarmangnale)
 
-- 📝 I regularly write articles on [https://techblogbyrameshwar.blogspot.com/2022/01/my-engineering-college-life.html](https://techblogbyrameshwar.blogspot.com/2022/01/my-engineering-college-life.html)
+- 📝 I regularly write articles on [Blogs](https://techblogbyrameshwar.blogspot.com/2022/01/my-engineering-college-life.html)
 
 - 💬 Ask me about **HTML5,CSS3,ReactJs,Javascript,ReactJS,NPM**
 
 - 📫 How to reach me **mangnalercm97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bcr2l9YC3nu6T0D7dwYyi4dPYclbNYzT/view?usp=sharing](https://drive.google.com/file/d/1bcr2l9YC3nu6T0D7dwYyi4dPYclbNYzT/view?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1bcr2l9YC3nu6T0D7dwYyi4dPYclbNYzT/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm Lazy**
 
